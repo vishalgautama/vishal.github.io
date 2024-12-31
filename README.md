@@ -1,6 +1,6 @@
-# abjt.dev
+# vishalgautam.us
 
-<img src="https://raw.githubusercontent.com/abjt14/portfolio/main/preview.png" width=100% height=100%>
+<img src="" width=100% height=100%>
 
 The 7th edition of my developer portfolio, with some new weapons in my arsenal.
 

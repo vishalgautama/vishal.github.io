@@ -21,9 +21,9 @@ export default function About() {
               <ImageBadge />
               <div className="flex flex-col justify-center items-start">
                 <h1 className="text-neutral-700 dark:text-neutral-200 font-medium">
-                  Abhijeet Singh
+                  Vishal Gautam
                 </h1>
-                <p className="text-neutral-500 text-sm">Software Developer</p>
+                <p className="text-neutral-500 text-sm">Former Aerospace Engineer</p>
               </div>
             </div>
             <div className="flex justify-end items-center">
@@ -32,9 +32,10 @@ export default function About() {
           </div>
           <div className="w-full flex flex-col justify-between items-center gap-2 text-neutral-700 dark:text-neutral-300 leading-7">
             <p className="w-full">
-              Crafting engaging experiences for the Internet. With a creative
-              approach to development, I add intuitiveness and life to my work.
-              Outside of programming, I enjoy making 3D renders and animations.
+              Crafting engaging experiences for the future. With a creative
+              approach to design and developement, I add intuitiveness to life and work.
+              Outside of programming, I enjoy composing music on my guitar, usually it never
+              turns out as expected.
             </p>
             <p className="w-full">
               My current tech stack is Next.js, Tailwind CSS, and Framer Motion.

@@ -58,7 +58,7 @@ export default function Name() {
         />
       )}
       <VisuallyHidden>
-        <h1>Vishal Gautam</h1>
+        <h1></h1>
       </VisuallyHidden>
     </div>
   );
